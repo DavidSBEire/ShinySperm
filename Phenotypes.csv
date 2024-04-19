@@ -1,0 +1,542 @@
+Accession,Phenotype
+A2A8L1,Abnormal spermatogenesis
+A2A8L1,Abnormal spermiation
+A2A8L1,Arrest of spermiogenesis
+A2A8L1,Asthenozoospermia
+A2A8L1,Male infertility
+A2A8L1,Oligozoospermia
+A2A8L1,Teratozoospermia
+A2AKX3,Male infertility
+A2AKX3,Abnormal male meiosis
+A2AKX3,Abnormal spermiogenesis
+A2AKX3,Arrest of male meiosis
+A2AKX3,Azoospermia
+A2AKX3,Globozoospermia
+B2RR83,Arrest of male meiosis
+B2RR83,Azoospermia
+B2RR83,Male infertility
+B9EKI3,Asthenozoospermia
+B9EKI3,Globozoospermia
+B9EKI3,Male infertility
+O35126,Abnormal sperm number
+O35126,Reduced male fertility
+O35604,Abnormal mitochondrial physiology
+O35604,Arrest of spermatogenesis
+O35604,Impaired acrosome reaction
+O35604,Impaired fertilization
+O35604,Infertility
+O35604,Male infertility
+O35604,Oligozoospermia
+O35604,Reduced fertility
+O35604,Teratozoospermia
+O35969,Abnormal mitochondrial atp synthesis
+O35969,Male infertility
+O35969,Oligozoospermia
+O35969,Reduced male fertility
+O55028,Reduced fertility
+O55102,Abnormal mitochondrial physiology
+O70230,Infertility
+O70274,Oligozoospermia
+O70274,Teratozoospermia
+O70318,Abnormal spermatogenesis
+O70318,Male infertility
+O70318,Oligozoospermia
+O88379,Male infertility
+O88379,Abnormal spermatogenesis
+O88379,Abnormal spermiation
+O88379,Abnormal spermiogenesis
+O88379,Asthenozoospermia
+O88379,Oligozoospermia
+O88379,Teratozoospermia
+O88522,Azoospermia
+O88898,Abnormal mitochondrial physiology
+P04202,Infertility
+P08032,Infertility
+P09581,Oligozoospermia
+P09581,Reduced male fertility
+P11531,Male infertility
+P11531,Reduced fertility
+P12265,Male infertility
+P14873,Reduced fertility
+P14901,Infertility
+P15535,Abnormal fertilization
+P15535,Abnormal sperm motility
+P15535,Abnormal spermatogenesis
+P15535,Impaired acrosome reaction
+P17918,Infertility
+P18654,Infertility
+P19091,Abnormal spermatogenesis
+P19091,Arrest of male meiosis
+P19091,Arrest of spermatogenesis
+P19091,Azoospermia
+P19091,Oligozoospermia
+P19091,Reduced fertility
+P19091,Reduced male fertility
+P19785,Abnormal spermatogenesis
+P19785,Asthenozoospermia
+P19785,Impaired fertilization
+P19785,Infertility
+P19785,Male infertility
+P19785,Oligozoospermia
+P19785,Reduced male fertility
+P19785,Spermatic granuloma
+P19785,Teratozoospermia
+P21981,Abnormal mitochondrial atp synthesis
+P23242,Abnormal spermatogenesis
+P23242,Azoospermia
+P23242,Male infertility
+P23242,Oligozoospermia
+P23780,Reduced fertility
+P28776,Increased sperm number
+P28776,Teratozoospermia
+P30285,Male infertility
+P30285,Abnormal fertility/fecundity
+P30285,Azoospermia
+P30285,Oligozoospermia
+P30285,Reduced male fertility
+P30681,Asthenozoospermia
+P30681,Reduced male fertility
+P30681,Teratozoospermia
+P31750,Abnormal spermatogenesis
+P31750,Oligozoospermia
+P48410,Reduced fertility
+P49817,Reduced fertility
+P51791,Reduced fertility
+P51791,Reduced male fertility
+P51885,Reduced male fertility
+P52293,Male infertility
+P60334,Abnormal fertility/fecundity
+P60334,Male infertility
+P60824,Abnormal spermatogonia proliferation
+P62254,Male infertility
+P62340,Arrest of spermiogenesis
+P62340,Azoospermia
+P62340,Male infertility
+P63005,Abnormal spermiation
+P63005,Abnormal spermiogenesis
+P63005,Arrest of spermiogenesis
+P63005,Azoospermia
+P63005,Male infertility
+P70297,Male infertility
+P70318,Male infertility
+P70340,Reduced fertility
+P70351,Male infertility
+P70441,Reduced fertility
+Q00288,Arrest of spermatogenesis
+Q00288,Male infertility
+Q00493,Male infertility
+Q00493,Infertility
+Q00493,Reduced fertility
+Q02357,Infertility
+Q04519,Asthenozoospermia
+Q04519,Impaired sperm capacitation
+Q04519,Teratozoospermia
+Q07113,Reduced male fertility
+Q07231,Male infertility
+Q07813,Abnormal spermatogenesis
+Q07813,Arrest of male meiosis
+Q07813,Arrest of spermatogenesis
+Q07813,Azoospermia
+Q07813,Male infertility
+Q09200,Male infertility
+Q14AW5,Abnormal sperm motility
+Q14AW5,Reduced male fertility
+Q1HFZ0,Male infertility
+Q1HFZ0,Abnormal fertility/fecundity
+Q1HFZ0,Oligozoospermia
+Q2TBE6,Male infertility
+Q3TSG4,Oligozoospermia
+Q3TSG4,Reduced male fertility
+Q3TSG4,Teratozoospermia
+Q3TUA9,Male infertility
+Q3TYD6,Arrest of spermatogenesis
+Q3TYD6,Azoospermia
+Q3TYD6,Male infertility
+Q3U487,Male infertility
+Q3U9G9,Increased mitochondrial fission
+Q3U9G9,Male infertility
+Q3U9G9,Reduced male fertility
+Q3UJD6,Reduced male fertility
+Q3ULA2,Abnormal male meiosis
+Q3ULA2,Oligozoospermia
+Q3ULA2,Reduced male fertility
+Q3UVG3,Male infertility
+Q505D7,Abnormal mitochondrial physiology
+Q58A65,Asthenozoospermia
+Q58A65,Oligozoospermia
+Q58A65,Reduced activated sperm motility
+Q58A65,Reduced male fertility
+Q5I1X5,Reduced male fertility
+Q5SZT7,Arrest of male meiosis
+Q5SZT7,Azoospermia
+Q5SZT7,Male infertility
+Q60644,Abnormal spermatogonia proliferation
+Q60662,Male infertility
+Q60662,Reduced activated sperm motility
+Q60662,Reduced hyperactivated sperm motility
+Q60809,Asthenozoospermia
+Q60809,Male infertility
+Q60809,Oligozoospermia
+Q60809,Teratozoospermia
+Q61026,Reduced male fertility
+Q61026,Teratozoospermia
+Q61206,Abnormal spermatogenesis
+Q61206,Arrest of spermatogenesis
+Q61206,Male infertility
+Q61545,Abnormal male meiosis
+Q61545,Male infertility
+Q61550,Reduced male fertility
+Q61599,Abnormal spermatogenesis
+Q61644,Reduced fertility
+Q61735,Abnormal mitochondrial physiology
+Q62036,Abnormal sperm number
+Q62036,Abnormal spermatogenesis
+Q62036,Abnormal spermiogenesis
+Q62036,Male infertility
+Q62036,Teratozoospermia
+Q62087,Abnormal mitochondrial atp synthesis
+Q64337,Abnormal mitochondrial physiology
+Q64373,Male infertility
+Q64430,Male infertility
+Q64705,Reduced male fertility
+Q69ZS7,Male infertility
+Q6PR54,Reduced fertility
+Q6WKZ8,Abnormal fertility/fecundity
+Q6WKZ8,Arrest of male meiosis
+Q6WKZ8,Male infertility
+Q6WKZ8,Oligozoospermia
+Q6ZPE2,Abnormal spermatogenesis
+Q6ZPE2,Azoospermia
+Q6ZPE2,Male infertility
+Q6ZPR5,Male infertility
+Q78JE5,Male infertility
+Q78YY6,Abnormal mitochondrial atp synthesis
+Q7M761,Male infertility
+Q7TN29,Asthenozoospermia
+Q7TN29,Decreased fertilization frequency
+Q7TN29,Globozoospermia
+Q7TN29,Male infertility
+Q7TQK0,Male infertility
+Q7TSZ8,Reduced male fertility
+Q80U63,Abnormal mitochondrial physiology
+Q80U78,Abnormal spermatogenesis
+Q80U78,Oligozoospermia
+Q80U78,Reduced male fertility
+Q80VL1,Arrest of male meiosis
+Q80VL1,Azoospermia
+Q80VL1,Male infertility
+Q80X41,Abnormal spermatogenesis
+Q80X41,Abnormal spermatogonia proliferation
+Q80X41,Arrest of male meiosis
+Q80X41,Azoospermia
+Q80X41,Male infertility
+Q80YV2,Male infertility
+Q80YV2,Abnormal spermatogenesis
+Q80YV2,Arrest of male meiosis
+Q80YV2,Arrest of spermatogenesis
+Q80YV2,Azoospermia
+Q811U4,Abnormal mitochondrial physiology
+Q8BH60,Abnormal spermatogenesis
+Q8BH60,Asthenozoospermia
+Q8BH60,Globozoospermia
+Q8BH60,Impaired fertilization
+Q8BH60,Male infertility
+Q8BLX4,Reduced male fertility
+Q8BM75,Abnormal fertility/fecundity
+Q8BM75,Arrest of spermatogenesis
+Q8BM75,Reduced male fertility
+Q8BMI0,Male infertility
+Q8BNI4,Male infertility
+Q8BPB5,Infertility
+Q8BPB5,Reduced fertility
+Q8BQ47,Male infertility
+Q8BUL6,Abnormal spermatogenesis
+Q8BUL6,Male infertility
+Q8BX90,Abnormal spermatogenesis
+Q8BX90,Arrest of spermatogenesis
+Q8BX90,Male infertility
+Q8C9B9,Reduced male fertility
+Q8CBD1,Abnormal fertility/fecundity
+Q8CD10,Abnormal mitochondrial physiology
+Q8CH72,Reduced fertility
+Q8JZP9,Male infertility
+Q8K1Z0,Abnormal mitochondrial atp synthesis
+Q8K1Z0,Abnormal mitochondrial physiology
+Q8K214,Abnormal spermatogenesis
+Q8K214,Arrest of male meiosis
+Q8K214,Azoospermia
+Q8K214,Male infertility
+Q8K2G4,Male infertility
+Q8K2K6,Arrest of spermiogenesis
+Q8K2K6,Asthenozoospermia
+Q8K2K6,Globozoospermia
+Q8K2K6,Impaired fertilization
+Q8K2K6,Male infertility
+Q8K2K6,Oligozoospermia
+Q8K2K6,Teratozoospermia
+Q8R0H9,Male infertility
+Q8R0K9,Reduced fertility
+Q8R0K9,Reduced male fertility
+Q8R4D1,Male infertility
+Q8VCQ6,Male infertility
+Q8VD75,Abnormal spermatogenesis
+Q8VD75,Male infertility
+Q8VD75,Oligozoospermia
+Q8VD75,Reduced male fertility
+Q8VEA4,Abnormal mitochondrial atp synthesis
+Q91WL8,Reduced male fertility
+Q91WM1,Abnormal spermatogenesis
+Q91WM1,Asthenozoospermia
+Q91WM1,Oligozoospermia
+Q91WM1,Reduced male fertility
+Q91X88,Male infertility
+Q91YE7,Arrest of spermatogenesis
+Q91YE7,Arrest of spermiogenesis
+Q91YE7,Azoospermia
+Q91YE7,Male infertility
+Q920G9,Abnormal spermatogenesis
+Q920G9,Abnormal spermiation
+Q920G9,Abnormal spermiogenesis
+Q920G9,Asthenozoospermia
+Q920G9,Globozoospermia
+Q920G9,Oligozoospermia
+Q920G9,Reduced male fertility
+Q920G9,Teratozoospermia
+Q920Q6,Abnormal fertility/fecundity
+Q922J3,Reduced male fertility
+Q922J3,Teratozoospermia
+Q924N4,Infertility
+Q99JX3,Abnormal spermiogenesis
+Q99JX3,Asthenozoospermia
+Q99JX3,Male infertility
+Q99JX3,Oligozoospermia
+Q99KG5,Male infertility
+Q99PP2,Reduced male fertility
+Q9CQI9,Abnormal mitochondrial physiology
+Q9CYR6,Abnormal spermatogenesis
+Q9CYR6,Male infertility
+Q9D0K1,Abnormal mitochondrial physiology
+Q9D114,Male infertility
+Q9D8H7,Decreased mitochondrial dna content
+Q9D8T7,Asthenozoospermia
+Q9D8T7,Reduced male fertility
+Q9D964,Male infertility
+Q9D964,Abnormal spermatogenesis
+Q9DC29,Abnormal mitochondrial physiology
+Q9EQC5,Reduced fertility
+Q9EQG9,Abnormal mitochondrial physiology
+Q9EQP2,Abnormal spermatogenesis
+Q9EQP2,Abnormal spermiation
+Q9EQP2,Oligozoospermia
+Q9EQP2,Reduced male fertility
+Q9ES74,Infertility
+Q9ESC8,Arrest of spermatogenesis
+Q9ESC8,Azoospermia
+Q9ESC8,Male infertility
+Q9ESX5,Abnormal fertility/fecundity
+Q9ESZ8,Reduced male fertility
+Q9JIF3,Abnormal sperm motility
+Q9JIK9,Abnormal mitochondrial atp synthesis
+Q9JK91,Male infertility
+Q9JK91,Abnormal male meiosis
+Q9JK91,Arrest of male meiosis
+Q9JK91,Azoospermia
+Q9JK91,Oligozoospermia
+Q9JKB3,Abnormal spermatogenesis
+Q9JKB3,Male infertility
+Q9JKB3,Oligozoospermia
+Q9JME7,Male infertility
+Q9QUR7,Azoospermia
+Q9QUR7,Reduced male fertility
+Q9QYS9,Abnormal spermatogenesis
+Q9QYS9,Abnormal spermiogenesis
+Q9QYS9,Necrospermia
+Q9QYS9,Oligozoospermia
+Q9QYS9,Reduced male fertility
+Q9WTK5,Reduced fertility
+Q9WTX2,Infertility
+Q9WTX2,Reduced fertility
+Q9WU28,Male infertility
+Q9WU28,Necrospermia
+Q9WU28,Oligozoospermia
+Q9WUZ9,Arrest of male meiosis
+Q9WUZ9,Male infertility
+Q9Z0N2,Abnormal spermatogonia proliferation
+Q9Z0N2,Azoospermia
+Q9Z0N2,Male infertility
+Q9Z1A9,Male infertility
+Q9Z321,Abnormal male meiosis
+O54887,Male infertility
+P16381,Male infertility
+P26361,Impaired fertilization
+P52194,Impaired fertilization
+P52194,Male infertility
+P60154,Abnormal sperm motility
+P60154,Impaired sperm capacitation
+Q02111,Male infertility
+Q04735,Abnormal spermatogenesis
+Q04735,Asthenozoospermia
+Q04735,Male infertility
+Q05769,Abnormal fertility/fecundity
+Q05769,Impaired fertilization
+Q07235,Male infertility
+Q3TTP0,Arrest of male meiosis
+Q3TTP0,Oligozoospermia
+Q3TTP0,Reduced male fertility
+Q3TY65,Abnormal spermiogenesis
+Q3TY65,Globozoospermia
+Q3TY65,Oligozoospermia
+Q3TY65,Reduced male fertility
+Q505B8,Abnormal male meiosis
+Q505B8,Arrest of male meiosis
+Q505B8,Male infertility
+Q5M8M9,Impaired fertilization
+Q5M8M9,Reduced male fertility
+Q5QNQ6,Abnormal spermiogenesis
+Q5QNQ6,Asthenozoospermia
+Q5QNQ6,Globozoospermia
+Q5QNQ6,Impaired fertilization
+Q5QNQ6,Male infertility
+Q5QNQ6,Oligozoospermia
+Q5QNQ6,Teratozoospermia
+Q61496,Arrest of male meiosis
+Q61496,Male infertility
+Q66LM6,Male infertility
+Q6UJY2,Asthenozoospermia
+Q6UJY2,Male infertility
+Q75UR0,Abnormal mitochondrial physiology
+Q75UR0,Decreased sperm progressive motility
+Q75UR0,Reduced activated sperm motility
+Q75UR0,Reduced male fertility
+Q8BG51,Abnormal mitochondrial physiology
+Q8C0T9,Abnormal fertilization
+Q8C0T9,Abnormal sperm motility
+Q8C0T9,Asthenozoospermia
+Q8C0T9,Impaired sperm capacitation
+Q8C0T9,Male infertility
+Q8C0T9,Teratozoospermia
+Q8CFG0,Reduced male fertility
+Q8VI88,Male infertility
+Q91ZR5,Abnormal sperm motility
+Q91ZR5,Asthenozoospermia
+Q91ZR5,Impaired acrosome reaction
+Q91ZR5,Impaired fertilization
+Q91ZR5,Male infertility
+Q9JJY3,Abnormal spermatogenesis
+Q9JJY3,Reduced fertility
+Q9JMB7,Arrest of male meiosis
+Q9JMB7,Arrest of spermatogenesis
+Q9JMB7,Male infertility
+Q9QY83,Male infertility
+Q9WTX7,Asthenozoospermia
+Q9WTX7,Delayed male fertility
+Q9WTX7,Oligozoospermia
+Q9WTX7,Teratozoospermia
+D3YXK2,Abnormal fertility/fecundity
+D3YXK2,Arrest of spermatogenesis
+D3YXK2,Azoospermia
+D3YXK2,Male infertility
+O08807,Oligozoospermia
+O35227,Abnormal sperm motility
+O35227,Impaired fertilization
+O35227,Reduced male fertility
+O35227,Spermatic granuloma
+O54774,Abnormal fertility/fecundity
+O54774,Male infertility
+P00493,Abnormal mitochondrial physiology
+P11352,Abnormal mitochondrial physiology
+P20060,Abnormal fertility/fecundity
+P20060,Impaired fertilization
+P21765,Reduced male fertility
+P21956,Impaired acrosome reaction
+P21956,Reduced male fertility
+P21956,Spermatic granuloma
+P30416,Abnormal sperm motility
+P30416,Asthenozoospermia
+P30416,Impaired fertilization
+P30416,Male infertility
+P30416,Oligozoospermia
+P30416,Reduced male fertility
+P34022,Abnormal spermatogenesis
+P34022,Azoospermia
+P34022,Male infertility
+P40240,Impaired fertilization
+P48678,Abnormal mitochondrial atp synthesis
+P48678,Arrest of male meiosis
+P48678,Azoospermia
+P48678,Infertility
+P48678,Male infertility
+P50543,Abnormal sperm number
+P51660,Abnormal spermatogenesis
+P51660,Male infertility
+P51660,Reduced male fertility
+P56959,Abnormal male meiosis
+P56959,Male infertility
+P70419,Male infertility
+P70419,Oligozoospermia
+P70419,Teratozoospermia
+P84244,Reduced male fertility
+P84244,Male infertility
+Q3UN02,Abnormal mitochondrial atp synthesis
+Q5FWK3,Reduced fertility
+Q60749,Male infertility
+Q60928,Infertility
+Q60928,Male infertility
+Q60928,Oligozoospermia
+Q8BIL5,Male infertility
+Q8BIL5,Abnormal spermatogenesis
+Q8BIL5,Abnormal spermiogenesis
+Q8BIL5,Arrest of spermatogenesis
+Q8BIL5,Reduced male fertility
+Q8BIL5,Teratozoospermia
+Q8BRG8,Male infertility
+Q8CGK3,Decreased mitochondrial dna content
+Q8R0X7,Abnormal spermatogenesis
+Q8R0X7,Male infertility
+Q8VCB1,Abnormal male meiosis
+Q8VCB1,Arrest of male meiosis
+Q8VCB1,Impaired fertilization
+Q8VCB1,Male infertility
+Q93092,Asthenozoospermia
+Q93092,Impaired acrosome reaction
+Q93092,Impaired fertilization
+Q93092,Male infertility
+Q99JF8,Reduced male fertility
+Q99PT1,Abnormal fertility/fecundity
+Q99PT1,Impaired fertilization
+Q99PT1,Male infertility
+Q99PT1,Oligozoospermia
+Q9D0S9,Abnormal mitochondrial physiology
+Q9D517,Impaired fertilization
+Q9D517,Male infertility
+Q9D517,Oligozoospermia
+Q9D517,Teratozoospermia
+Q9D666,Male infertility
+Q9D666,Abnormal male meiosis
+Q9D666,Arrest of male meiosis
+Q9D666,Azoospermia
+Q9QXY9,Male infertility
+Q9WUK2,Male infertility
+Q9WVK4,Abnormal male meiosis
+Q9WVK4,Abnormal spermatogenesis
+Q9WVK4,Abnormal spermiation
+Q9WVK4,Arrest of spermiogenesis
+Q9WVK4,Azoospermia
+Q9WVK4,Male infertility
+Q9Z1Q2,Male infertility
+Q9Z1W9,Reduced fertility
+Q9Z2D6,Male infertility
+E9Q5M6,Male infertility
+E9Q5M6,Asthenozoospermia
+E9Q5M6,Oligozoospermia
+E9Q5M6,Teratozoospermia
+Q61165,Abnormal fertility/fecundity
+Q8CDN1,Male infertility
+Q9D424,Abnormal sperm motility
+Q9D424,Decreased sperm progressive motility
+Q9D424,Impaired sperm capacitation
+Q9D424,Reduced activated sperm motility
+Q9D424,Reduced male fertility
+Q9D9W0,Male infertility
+Q9D9W0,Teratozoospermia
+Q9DAN1,Male infertility
